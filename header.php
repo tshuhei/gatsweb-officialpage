@@ -9,14 +9,15 @@
 	<?php wp_body_open()?>
 	<header>
 		<div class="header-left">
-			<img>
-			<p>GatsWeb</p>
+			<img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png">
+			<p class="header-title">GatsWeb</p>
 		</div>
 		<div class="header-right">
-			<a href="#">Price</a>
-			<a href="#">Service</a>
-			<a href="#">About</a>
-			<a href="#">Contact</a>
+			<ul class="header-items">
+				<li class="header-item"><a href="#">Price</a></li>
+				<li class="header-item"><a href="#">Service</a></li>
+				<li class="header-item"><a href="#">About</a></li>
+				<li class="header-item"><a href="#">Contact</a></li>
+			</ul>
 		</div>
-		<p>This is header</p>
 	</header>
