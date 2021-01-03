@@ -550,3 +550,108 @@ header{
 .header-item{
 	margin-right: 30px;
 }
+
+/* ============================================ */
+/* FOOTER */
+/* ============================================ */
+
+footer{
+	background-color: #eeeeee;
+	display: flex;
+	justify-content: center;
+}
+
+.footer-wrapper{
+	width: 80%;
+}
+
+.footer-nav{
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 5px solid #4064ff;
+}
+
+.footer-nav-left{
+	display: flex;
+}
+
+.footer-items{
+	display: flex;
+	line-height: 70px;
+	font-size: 1.4rem;
+}
+
+.footer-logo{
+	height: 60px;
+	margin: 5px 10px;
+}
+
+.footer-title{
+	line-height: 70px;
+	font-size: 2rem;
+}
+
+.footer-item{
+	margin-right: 30px;
+}
+
+.footer-rights{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.footer-contact{
+	margin-top: 40px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-social-icon{
+	height: 40px;
+	margin-right: 20px;
+}
+
+.footer-contact-tell{
+	font-size: 1.5rem;
+}
+
+.footer-contact-email{
+	font-size: 1.5rem;
+}
+
+/* ============================================ */
+/* TOP PAGE */
+/* ============================================ */
+
+.hero{
+	background-color: red;
+	padding-left: 100px;
+	background-image: url("./images/hero5.jpg");
+}
+
+.hero-title{
+	font-size: 6.5rem;
+	padding-top: 150px;
+}
+
+.hero-subtitle{
+	display: inline-block;
+	padding-top: 15px;
+	padding-bottom: -20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 2.4rem;
+	/*border-bottom: 10px solid #4064ff;*/
+	background:linear-gradient(transparent 75%, #4064ff 0%);
+}
+
+.hero-description{
+	width: 80%;
+	padding-top: 160px;
+	padding-bottom: 50px;
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+}

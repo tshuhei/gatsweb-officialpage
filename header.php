@@ -9,8 +9,8 @@
 	<?php wp_body_open()?>
 	<header>
 		<div class="header-left">
-			<img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png">
-			<p class="header-title">GatsWeb</p>
+			<a href="#"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
+			<a href="#"><p class="header-title">GatsWeb</p></a>
 		</div>
 		<div class="header-right">
 			<ul class="header-items">
