@@ -81,4 +81,48 @@
 	</div>
 </div>
 
+<div class="reason">
+	<div class="reason-title-wrapper">
+		<p class="reason-title">GatsWebで課題を解決！</p>
+	</div>
+	<div class="reason-items">
+		<div class="reason-item">
+			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason1_clipped2.png">
+			<p class="reason-item-title">業界最安値！</p>
+			<p class="reason-item-description">
+				吾輩わがはいは猫である。名前はまだ無い。
+				どこで生れたかとんと見当けんとうがつかぬ
+				。何でも薄暗いじめじめした所でニャーニャ
+				ー泣いていた事だけは記憶している。吾輩は
+				ここで始めて人間というものを見た。しかも
+				あとで聞くとそれは書生という人間中で一番
+			</p>
+		</div>
+		<div class="reason-item">
+			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason2_clipped.png">
+			<p class="reason-item-title">素早い納品！</p>
+			<p class="reason-item-description">
+				吾輩わがはいは猫である。名前はまだ無い。
+				どこで生れたかとんと見当けんとうがつかぬ
+				。何でも薄暗いじめじめした所でニャーニャ
+				ー泣いていた事だけは記憶している。吾輩は
+				ここで始めて人間というものを見た。しかも
+				あとで聞くとそれは書生という人間中で一番
+			</p>
+		</div>
+		<div class="reason-item">
+			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason3_clipped.png">
+			<p class="reason-item-title">徹底したヒアリング！</p>
+			<p class="reason-item-description">
+				吾輩わがはいは猫である。名前はまだ無い。
+				どこで生れたかとんと見当けんとうがつかぬ
+				。何でも薄暗いじめじめした所でニャーニャ
+				ー泣いていた事だけは記憶している。吾輩は
+				ここで始めて人間というものを見た。しかも
+				あとで聞くとそれは書生という人間中で一番
+			</p>
+		</div>
+	</div>
+</div>
+
 <?php get_footer();?>
