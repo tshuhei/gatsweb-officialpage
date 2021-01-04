@@ -681,3 +681,95 @@ footer{
 	font-size: 1.2rem;
 	line-height: 2.2rem;
 }
+
+/* ============================================ */
+/* KADAI */
+/* ============================================ */
+
+.kadai{
+	background-color: #cccccc;
+}
+
+.kadai-title-wrapper{
+	display: flex;
+	justify-content: center;
+}
+
+.kadai-title{
+	margin-top: 130px;
+	margin-bottom: 170px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 2.4rem;
+	background:linear-gradient(transparent 70%, #4064ff 0%);
+}
+
+.kadai-1{
+	display: flex;
+	margin-bottom: 250px;
+}
+
+.kadai1-left{
+	flex-basis: 45%;
+	display: flex;
+	justify-content: center;
+}
+
+.kadai1-right{
+	flex-basis: 55%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.kadai-lr-title{
+	font-size: 2.1rem;
+	margin-bottom: 60px;
+}
+
+.first-character{
+	font-size: 3rem;
+	color: #4064ff;
+}
+
+.kadai-lr-description{
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+	width: 80%;
+}
+
+.kadai-2{
+	display: flex;
+	margin-bottom: 250px;
+}
+
+.kadai2-right{
+	flex-basis: 45%;
+	display: flex;
+	justify-content: center;
+}
+
+.kadai2-left{
+	flex-basis: 55%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.kadai-3{
+	display: flex;
+	padding-bottom: 250px;
+}
+
+.kadai3-left{
+	flex-basis: 45%;
+	display: flex;
+	justify-content: center;
+}
+
+.kadai3-right{
+	flex-basis: 55%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
