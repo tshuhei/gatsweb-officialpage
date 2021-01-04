@@ -125,4 +125,69 @@
 	</div>
 </div>
 
+<div class="process">
+	<div class="process-title-wrapper">
+		<p class="process-title">制作の工程</p>
+	</div>
+	<div class="process-items">
+		<div class="process-item">
+			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process1_clipped.png">
+			<p class="process-item-title"><span class="process-first-character">1</span>ヒアリング</p>
+			<p class="process-item-description">
+				吾輩わがはいは猫である。名前
+				はまだ無い。どこで生れたかと
+				んと見当けんとうがつかぬ。何
+				でも薄暗いじめじめした所でニ
+				ャーニャー泣いていた事だけは
+				記憶している。吾輩はここで始
+			</p>
+		</div>
+		<div class="process-arrow-wrapper">
+			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
+		</div>
+		<div class="process-item">
+		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process2_clipped.png">
+			<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
+			<p class="process-item-description">
+				吾輩わがはいは猫である。名前
+				はまだ無い。どこで生れたかと
+				んと見当けんとうがつかぬ。何
+				でも薄暗いじめじめした所でニ
+				ャーニャー泣いていた事だけは
+				記憶している。吾輩はここで始
+			</p>
+		</div>
+		<div class="process-arrow-wrapper">
+			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
+		</div>
+		<div class="process-item">
+		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process3_clipped.png">
+			<p class="process-item-title"><span class="process-first-character">3</span>制作</p>
+			<p class="process-item-description">
+				吾輩わがはいは猫である。名前
+				はまだ無い。どこで生れたかと
+				んと見当けんとうがつかぬ。何
+				でも薄暗いじめじめした所でニ
+				ャーニャー泣いていた事だけは
+				記憶している。吾輩はここで始
+			</p>
+		</div>
+		<div class="process-arrow-wrapper">
+			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
+		</div>
+		<div class="process-item">
+		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process4_clipped.png">
+			<p class="process-item-title"><span class="process-first-character">4</span>運用</p>
+			<p class="process-item-description">
+				吾輩わがはいは猫である。名前
+				はまだ無い。どこで生れたかと
+				んと見当けんとうがつかぬ。何
+				でも薄暗いじめじめした所でニ
+				ャーニャー泣いていた事だけは
+				記憶している。吾輩はここで始
+			</p>
+		</div>
+	</div>
+</div>
+
 <?php get_footer();?>

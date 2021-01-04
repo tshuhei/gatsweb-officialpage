@@ -738,6 +738,11 @@ footer{
 	width: 80%;
 }
 
+.kadai-image{
+	/*width: fit-content;
+	height: fit-content;*/
+}
+
 .kadai-2{
 	display: flex;
 	margin-bottom: 250px;
@@ -779,7 +784,7 @@ footer{
 /* ============================================ */
 
 .reason{
-	background-color: #ffffff;
+	background-color: #eeeeee;
 }
 
 .reason-title-wrapper{
@@ -825,4 +830,68 @@ footer{
 	font-size: 1.2rem;
 	line-height: 2.2rem;
 	padding-bottom: 20px;
+}
+
+/* ============================================ */
+/* PROCESS */
+/* ============================================ */
+
+.process{
+	background-color: #cccccc;
+}
+
+.process-title-wrapper{
+	display: flex;
+	justify-content: center;
+}
+
+.process-title{
+	margin-top: 130px;
+	margin-bottom: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 2.4rem;
+	background:linear-gradient(transparent 70%, #4064ff 0%);
+}
+
+.process-items{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 150px;
+}
+
+.process-item{
+	flex-basis: 20%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.process-item-image{
+	margin-bottom: 60px;
+}
+
+.process-item-title{
+	font-size: 1.5rem;
+	margin-bottom: 30px;
+}
+
+.process-first-character{
+	color: #4064ff;
+	font-weight: bold;
+}
+
+.process-item-description{
+	width: 90%;
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+}
+
+.process-arrow-wrapper{
+	width: 2%;
+	padding-top: 100px;
+}
+
+.process-arrow{
+	width: 100%;
 }
