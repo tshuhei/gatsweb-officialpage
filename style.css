@@ -1090,3 +1090,118 @@ footer{
 	height: 30%;
 }
 
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+/* PAGE CONTACT PHP */
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+
+
+
+
+/* ============================================ */
+/* C-CONTACT */
+/* ============================================ */
+
+.c-contact{
+	background-color: #eeeeee;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.c-contact-top{
+	padding-top: 10rem;
+	padding-bottom: 2.5rem;
+	display: flex;
+	align-items: center;	
+}
+
+.c-contact-top-arrow{
+	margin: 0rem 2rem;
+	height: 1rem;
+}
+
+.c-contact-top-str{
+	font-size: 5rem;
+	font-weight: 300;
+}
+
+.c-contact-copy{
+	font-size: 1.7rem;
+	font-weight: 300;
+}
+
+.c-contact-tell{
+	padding-top: 5rem;
+	font-size: 1.5rem;
+}
+
+.c-contact-email{
+	padding-top: .5rem;
+	font-size: 1.5rem;
+}
+
+.c-contact-description{
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	width: 80%;
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+}
+
+/* ============================================ */
+/* C-CONTACT-FORM */
+/* ============================================ */
+
+.c-contact-form-wrapper{
+	background-color: #cccccc;
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.c-contact-form{
+	width: 80%;
+}
+
+.c-contact-form-item{
+	padding: 3rem 0rem;
+	display: flex;
+	justify-content: space-around;
+}
+
+.c-contact-form-label{
+	text-align: right;
+	font-size: 2rem;
+	flex-basis: 35%;
+	line-height: 4rem;
+	padding-right: 1rem;
+	border-right: .4rem solid #4064ff;
+}
+
+.c-contact-form-input{
+	padding: 1rem;
+	background-color: white;
+	flex-basis: 50%;
+	font-size: 2rem;
+	border-radius: .5rem;
+}
+
+.c-contact-form-button-wrapper{
+	display: flex;
+	justify-content: center;
+	padding-top: 4rem;
+}
+
+.c-contact-form-button{
+	background-color: #4064ff;
+	font-size: 2rem;
+	color: white;
+	padding: 1rem 5rem;
+	border-radius: .5rem;
+}
