@@ -19,15 +19,15 @@
 	<?php wp_body_open()?>
 	<header>
 		<div class="header-left">
-			<a href="#"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
-			<a href="#"><p class="header-title">GatsWeb</p></a>
+			<a href="http://hogehoge.work"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
+			<a href="http://hogehoge.work"><p class="header-title">GatsWeb</p></a>
 		</div>
 		<div class="header-right">
 			<ul class="header-items">
-				<li class="header-item"><a href="#">Price</a></li>
-				<li class="header-item"><a href="#">Service</a></li>
-				<li class="header-item"><a href="#">About</a></li>
-				<li class="header-item"><a href="#">Contact</a></li>
+				<li class="header-item"><a href="http://hogehoge.work/price">Price</a></li>
+				<li class="header-item"><a href="http://hogehoge.work/service">Service</a></li>
+				<li class="header-item"><a href="http://hogehoge.work/about">About</a></li>
+				<li class="header-item"><a href="http://hogehoge.work/contact">Contact</a></li>
 			</ul>
 		</div>
 	</header>

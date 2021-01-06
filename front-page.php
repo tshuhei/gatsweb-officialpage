@@ -199,7 +199,7 @@
 			<p class="contact-copy">まずはお気軽に<br>お問い合わせください！！</p>
 			<p class="contact-tell">Tell：123-1234-1234</p>
 			<p class="contact-email">Email：contact@gatsweb.com</p>
-			<a href="#"><p class="contact-cta">詳しくはこちらから</p></a>
+			<a href="http://hogehoge.work/contact"><p class="contact-cta">詳しくはこちらから</p></a>
 		</div>
 	</div>
 </div>

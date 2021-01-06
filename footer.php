@@ -2,15 +2,15 @@
 		<div class="footer-wrapper">
 			<div class="footer-nav">
 				<div class="footer-nav-left">
-						<a href="#"><img class="footer-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
-						<a href="#"><p class="footer-title">GatsWeb</p></a>
+						<a href="http://hogehoge.work"><img class="footer-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
+						<a href="http://hogehoge.work"><p class="footer-title">GatsWeb</p></a>
 				</div>
 				<div class="footer-nav-right">
 					<ul class="footer-items">
-						<li class="footer-item"><a href="#">Price</a></li>
-						<li class="footer-item"><a href="#">Service</a></li>
-						<li class="footer-item"><a href="#">About</a></li>
-						<li class="footer-item"><a href="#">Contact</a></li>
+						<li class="footer-item"><a href="http://hogehoge.work/price">Price</a></li>
+						<li class="footer-item"><a href="http://hogehoge.work/service">Service</a></li>
+						<li class="footer-item"><a href="http://hogehoge.work/about">About</a></li>
+						<li class="footer-item"><a href="http://hogehoge.work/contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -20,9 +20,9 @@
 					<p class="footer-contact-email">Email: contact@gatsweb.com</p>
 				</div>
 				<div class="footer-contact-right">
-					<img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/line.png">
-					<img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/instagram.png">
-					<img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/twitter.png">
+					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/line.png"></a>
+					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/instagram.png"></a>
+					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/twitter.png"></a>
 				</div>
 			</div>
 			<div class="footer-rights">
