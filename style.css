@@ -515,7 +515,9 @@ template {
 html{
 	color: #252525;
 	font-size: 1.2vw;
-
+	font-family: vdl-v7marugothic, sans-serif;
+	font-weight: 500;
+	font-style: normal;
 }
 
 /* ============================================ */
@@ -603,6 +605,8 @@ footer{
 	justify-content: center;
 	margin-top: 1.3rem;
 	margin-bottom: .7rem;
+	font-size: .9rem;
+	font-weight: 300;
 }
 
 .footer-contact{
@@ -732,6 +736,7 @@ footer{
 .first-character{
 	font-size: 3rem;
 	color: #4064ff;
+	font-weight: 700;
 }
 
 .kadai-lr-description{
@@ -891,7 +896,7 @@ footer{
 
 .process-first-character{
 	color: #4064ff;
-	font-weight: bold;
+	font-weight: 800;
 }
 
 .process-item-description{
@@ -948,7 +953,7 @@ footer{
 	padding-top: 3rem;
 	font-size: 2.5rem;
 	color: white;
-	/*font-weight:thin;*/
+	font-weight:300;
 	padding-bottom: 5rem;
 }
 
@@ -972,5 +977,6 @@ footer{
 	color:#4064ff;
 	padding: .5rem 1rem;
 	background-color: white;
+	font-weight: 700;
 	
 }
