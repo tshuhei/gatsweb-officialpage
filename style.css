@@ -520,6 +520,20 @@ html{
 	font-style: normal;
 }
 
+
+
+
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+/* FRONT PAGE PHP */
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+
+
+
+
 /* ============================================ */
 /* HEADER */
 /* ============================================ */
@@ -980,3 +994,99 @@ footer{
 	font-weight: 700;
 	
 }
+
+
+
+
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+/* PAGE ABOUT PHP */
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+
+
+
+
+/* ============================================ */
+/* ABOUT */
+/* ============================================ */
+
+.about{
+	background-color: #eeeeee;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.about-top{
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+	display: flex;
+	align-items: center;	
+}
+
+.about-top-arrow{
+	margin: 0rem 2rem;
+	height: 1rem;
+}
+
+.about-top-str{
+	font-size: 5rem;
+	font-weight: 300;
+}
+
+.about-top-title{
+	margin-bottom: 5rem;
+	padding-left: .7rem;
+	padding-right: .7rem;
+	font-size: 2.4rem;
+	background:linear-gradient(transparent 70%, #4064ff 0%);
+}
+
+.about-top-description{
+	width: 70%;
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+	padding-bottom: 5rem;
+}
+
+/* ============================================ */
+/* GREETING */
+/* ============================================ */
+
+.greeting{
+	background-color: #cccccc;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.greeting-title{
+	margin-top: 9rem;
+	margin-bottom: 7rem;
+	padding-left: .7rem;
+	padding-right: .7rem;
+	font-size: 2.4rem;
+	background:linear-gradient(transparent 70%, #4064ff 0%);
+}
+
+.greeting-contents{
+	display: flex;
+	padding-bottom: 7rem;
+	justify-content: space-around;
+}
+
+.greeting-discription{
+	flex-basis: 40%;
+	font-size: 1.2rem;
+	line-height: 2.2rem;
+}
+
+.greeting-president{
+	width: 30%;
+	max-width: 30%;
+	height: 30%;
+}
+
