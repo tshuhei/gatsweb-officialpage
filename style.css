@@ -520,6 +520,13 @@ html{
 	font-style: normal;
 }
 
+body{
+	font-family: vdl-v7marugothic, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 1.15;
+}
+
 
 
 
@@ -659,11 +666,11 @@ footer{
 
 .hero-subtitle{
 	display: inline-block;
-	padding-top: 1rem;
+	margin-top: 1rem;
 	padding-left: .7rem;
 	padding-right: .7rem;
 	font-size: 2.4rem;
-	background:linear-gradient(transparent 75%, #4064ff 0%);
+	background:linear-gradient(transparent 70%, #4064ff 0%);
 }
 
 .hero-description{
@@ -1090,6 +1097,9 @@ footer{
 	height: 30%;
 }
 
+
+
+
 /* ============================================ */
 /* ============================================ */
 /* ============================================ */
@@ -1204,4 +1214,21 @@ footer{
 	color: white;
 	padding: 1rem 5rem;
 	border-radius: .5rem;
+}
+
+
+
+
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+/* RESPONSIVE DESIGN */
+/* ============================================ */
+/* ============================================ */
+/* ============================================ */
+
+@media screen and (max-width: 600px){
+	html{
+		font-size: 2.4vw;
+	}
 }

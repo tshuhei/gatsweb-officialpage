@@ -3,6 +3,12 @@
 <head>
 	<meta charset="<?php bloginfo("charset"); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- BootstrapのCSS読み込み -->
+    <link href="<?php echo get_theme_file_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
+	<!-- jQuery読み込み -->
+	<script src="<?php echo get_theme_file_uri(); ?>/js/jquery-3.5.1.min.js"></script>
+	<!-- BootstrapのJS読み込み -->
+    <script src="<?php echo get_theme_file_uri(); ?>/js/bootstrap.min.js"></script>
 	<?php wp_head(); ?>
 	<script>
   	(function(d) {
@@ -22,6 +28,7 @@
 			<a href="http://hogehoge.work"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
 			<a href="http://hogehoge.work"><p class="header-title">GatsWeb</p></a>
 		</div>
+		<!-- <button type="button" class="btn btn-primary">Blue</button> -->
 		<div class="header-right">
 			<ul class="header-items">
 				<li class="header-item"><a href="http://hogehoge.work/price">Price</a></li>
