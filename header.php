@@ -25,15 +25,15 @@
 	<?php wp_body_open()?>
 	<header>
 		<div class="header-left">
-			<a href="http://hogehoge.work"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
-			<a href="http://hogehoge.work"><p class="header-title">GatsWeb</p></a>
+			<a href="https://gatsweb.net"><img class="header-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
+			<a href="https://gatsweb.net"><p class="header-title">GatsWeb</p></a>
 		</div>
 		<div class="header-right">
 			<ul class="header-items">
-				<li class="header-item"><a href="http://hogehoge.work/price">Price</a></li>
-				<li class="header-item"><a href="http://hogehoge.work/service">Service</a></li>
-				<li class="header-item"><a href="http://hogehoge.work/about">About</a></li>
-				<li class="header-item"><a href="http://hogehoge.work/contact">Contact</a></li>
+				<!-- <li class="header-item"><a href="https://gatsweb.net/price">Price</a></li>
+				<li class="header-item"><a href="https://gatsweb.net/service">Service</a></li> -->
+				<li class="header-item"><a href="https://gatsweb.net/about">About</a></li>
+				<li class="header-item"><a href="https://gatsweb.net/contact">Contact</a></li>
 			</ul>
 		</div>
 		<div class="nav-drawer-wrapper">
@@ -43,10 +43,10 @@
 				<label class="nav-unshown" id="nav-close" for="nav-input"></label>
 				<div id="nav-content">
 					<ul class="nav-content-items">
-						<a class="nav-content-item" href="http://hogehoge.work/price"><li>Price</li></a>
-						<a class="nav-content-item" href="http://hogehoge.work/service"><li>Service</li></a>
-						<a class="nav-content-item" href="http://hogehoge.work/about"><li>About</li></a>
-						<a class="nav-content-item" href="http://hogehoge.work/contact"><li>Contact</li></a>
+						<!-- <a class="nav-content-item" href="https://gatsweb.net/price"><li>Price</li></a>
+						<a class="nav-content-item" href="https://gatsweb.net/service"><li>Service</li></a> -->
+						<a class="nav-content-item" href="https://gatsweb.net/about"><li>About</li></a>
+						<a class="nav-content-item" href="https://gatsweb.net/contact"><li>Contact</li></a>
 					</ul>
 				</div>
 			</div>

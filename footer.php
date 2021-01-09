@@ -2,15 +2,15 @@
 		<div class="footer-wrapper">
 			<div class="footer-nav">
 				<div class="footer-nav-left">
-						<a href="http://hogehoge.work"><img class="footer-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
-						<a href="http://hogehoge.work"><p class="footer-title">GatsWeb</p></a>
+						<a href="https://gatsweb.net"><img class="footer-logo" src="<?php echo get_theme_file_uri(); ?>/images/gatsweb-logo.png"></a>
+						<a href="https://gatsweb.net"><p class="footer-title">GatsWeb</p></a>
 				</div>
 				<div class="footer-nav-right">
 					<ul class="footer-items">
-						<li class="footer-item"><a href="http://hogehoge.work/price">Price</a></li>
-						<li class="footer-item"><a href="http://hogehoge.work/service">Service</a></li>
-						<li class="footer-item"><a href="http://hogehoge.work/about">About</a></li>
-						<li class="footer-item"><a href="http://hogehoge.work/contact">Contact</a></li>
+						<!-- <li class="footer-item"><a href="http://hogehoge.work/price">Price</a></li>
+						<li class="footer-item"><a href="http://hogehoge.work/service">Service</a></li> -->
+						<li class="footer-item"><a href="https://gatsweb.net/about">About</a></li>
+						<li class="footer-item"><a href="https://gatsweb.net/contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
