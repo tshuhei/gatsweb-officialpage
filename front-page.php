@@ -132,60 +132,71 @@
 	<div class="process-items">
 		<div class="process-item">
 			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process1_clipped.png">
-			<p class="process-item-title"><span class="process-first-character">1</span>ヒアリング</p>
-			<p class="process-item-description">
+			<div class="process-item-text-wrapper">
+				<p class="process-item-title"><span class="process-first-character">1</span>ヒアリング</p>
+				<p class="process-item-description">
 				吾輩わがはいは猫である。名前
 				はまだ無い。どこで生れたかと
 				んと見当けんとうがつかぬ。何
 				でも薄暗いじめじめした所でニ
 				ャーニャー泣いていた事だけは
 				記憶している。吾輩はここで始
-			</p>
+				</p>
+			</div>
 		</div>
 		<div class="process-arrow-wrapper">
+			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
 		<div class="process-item">
-		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process2_clipped.png">
-			<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
-			<p class="process-item-description">
+			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process2_clipped.png">
+			<div class="process-item-text-wrapper">	
+				<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
+				<p class="process-item-description">
 				吾輩わがはいは猫である。名前
 				はまだ無い。どこで生れたかと
 				んと見当けんとうがつかぬ。何
 				でも薄暗いじめじめした所でニ
 				ャーニャー泣いていた事だけは
 				記憶している。吾輩はここで始
-			</p>
+				</p>
+			</div>
 		</div>
 		<div class="process-arrow-wrapper">
+			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
 		<div class="process-item">
-		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process3_clipped.png">
-			<p class="process-item-title"><span class="process-first-character">3</span>制作</p>
-			<p class="process-item-description">
+			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process3_clipped.png">
+			<div class="process-item-text-wrapper">
+				<p class="process-item-title"><span class="process-first-character">3</span>制作</p>
+				<p class="process-item-description">
 				吾輩わがはいは猫である。名前
 				はまだ無い。どこで生れたかと
 				んと見当けんとうがつかぬ。何
 				でも薄暗いじめじめした所でニ
 				ャーニャー泣いていた事だけは
 				記憶している。吾輩はここで始
-			</p>
+				</p>
+			</div>
 		</div>
 		<div class="process-arrow-wrapper">
+			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
 		<div class="process-item">
-		<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process4_clipped.png">
-			<p class="process-item-title"><span class="process-first-character">4</span>運用</p>
-			<p class="process-item-description">
+			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process4_clipped.png">
+			<div class="process-item-text-wrapper">
+				<p class="process-item-title"><span class="process-first-character">4</span>運用</p>
+				<p class="process-item-description">
 				吾輩わがはいは猫である。名前
 				はまだ無い。どこで生れたかと
 				んと見当けんとうがつかぬ。何
 				でも薄暗いじめじめした所でニ
 				ャーニャー泣いていた事だけは
 				記憶している。吾輩はここで始
-			</p>
+				</p>
+			</div>
 		</div>
 	</div>
 </div>
@@ -197,8 +208,10 @@
 	<div class="contact-contents">
 		<div class="contact-contents-main">
 			<p class="contact-copy">まずはお気軽に<br>お問い合わせください！！</p>
-			<p class="contact-tell">Tell：123-1234-1234</p>
-			<p class="contact-email">Email：contact@gatsweb.com</p>
+			<p class="contact-tell">
+				Tell：123-1234-1234<br>
+				Email：contact@gatsweb.com
+			</p>
 			<a href="http://hogehoge.work/contact"><p class="contact-cta">詳しくはこちらから</p></a>
 		</div>
 	</div>
