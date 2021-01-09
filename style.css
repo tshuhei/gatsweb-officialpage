@@ -1531,4 +1531,49 @@ footer{
 	.contact-cta{
 		margin-top: 3rem;
 	}
+
+/* ============================================ */
+/* ABOUT PAGE */
+/* ============================================ */
+
+	.greeting-contents{
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.greeting-discription{
+		order: 2;
+		width: 80%;
+	}
+
+	.greeting-president{
+		order: 1;
+		width: 60%;
+		max-width: 60%;
+		height: auto;
+		margin-top: 2rem;
+		margin-bottom: 7rem;
+	}
+
+/* ============================================ */
+/* CONTACT PAGE */
+/* ============================================ */
+
+	.c-contact-form-item{
+		flex-direction: column;
+	}
+
+	.c-contact-form-wrapper{
+		padding-top: 7rem;
+	}
+
+	.c-contact-form-label{
+		text-align: left;
+		border-right: none;
+		border-left: .4rem solid #4064ff;
+	}
+
+	.c-contact-form-input{
+		border-radius: 0rem .5rem .5rem .5rem;
+	}
 }
