@@ -20,9 +20,9 @@
 					<p class="footer-contact-email">Email: contact@gatsweb.com</p>
 				</div>
 				<div class="footer-contact-right">
-					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/line.png"></a>
+					<!-- <a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/line.png"></a>
 					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/instagram.png"></a>
-					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/twitter.png"></a>
+					<a href="#"><img class="footer-social-icon" src="<?php echo get_theme_file_uri(); ?>/images/twitter.png"></a> -->
 				</div>
 			</div>
 			<div class="footer-rights">

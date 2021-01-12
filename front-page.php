@@ -212,7 +212,7 @@
 				Tell：123-1234-1234<br>
 				Email：contact@gatsweb.com
 			</p>
-			<a href="http://hogehoge.work/contact"><p class="contact-cta">詳しくはこちらから</p></a>
+			<a href="https://gatsweb.net/contact"><p class="contact-cta">詳しくはこちらから</p></a>
 		</div>
 	</div>
 </div>

@@ -1199,7 +1199,7 @@ footer{
 }
 
 .greeting-discription{
-	flex-basis: 40%;
+	flex-basis: 70%;
 	font-size: 1.2rem;
 	line-height: 2.2rem;
 }
@@ -1543,7 +1543,7 @@ footer{
 
 	.greeting-discription{
 		order: 2;
-		width: 80%;
+		width: 70%;
 	}
 
 	.greeting-president{

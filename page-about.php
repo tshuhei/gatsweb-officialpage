@@ -38,7 +38,7 @@
 			いて書生の顔を見たのがいわゆる人間というものの見始みはじめ
 			であろう。この時妙なものだと思った感じが今でも残っている。
 			第一毛を</p>
-		<img class="greeting-president" src="<?php echo get_theme_file_uri(); ?>/images/president_clipped.png">
+		<!-- <img class="greeting-president" src="<?php echo get_theme_file_uri(); ?>/images/president_clipped.png"> -->
 	</div>
 </div>
 
