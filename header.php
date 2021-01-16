@@ -3,6 +3,9 @@
 <head>
 	<meta charset="<?php bloginfo("charset"); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="<?php echo get_theme_file_uri(); ?>/images/favicon_web.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="<?php echo get_theme_file_uri(); ?>/images/favicon_ios.png" sizes="180x180">
+	<link rel="icon" type="image/png" href="<?php echo get_theme_file_uri(); ?>/images/favicon_android.png" sizes="192x192">
 	<!-- BootstrapのCSS読み込み -->
     <!-- <link href="<?php echo get_theme_file_uri(); ?>/css/bootstrap.min.css" rel="stylesheet"> -->
 	<!-- jQuery読み込み -->
