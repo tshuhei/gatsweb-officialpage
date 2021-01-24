@@ -17,6 +17,7 @@
 </div>
 
 <div class="c-contact-form-wrapper">
+	<?php echo do_shortcode('[contact-form-7 id="15" title="コンタクトフォーム 1"]');?>
 	<form class="c-contact-form" action="/wordpress" method="get">
 		<div class="c-contact-form-item">
 			<label class="c-contact-form-label" for="name">お名前</label>
