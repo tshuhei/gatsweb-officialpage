@@ -7,7 +7,7 @@
 		<img class="c-contact-top-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 	</div>
 	<p class="c-contact-copy">まずはお気軽にご相談ください</p>
-	<p class="c-contact-tell">Tell：123-1234-1234</p>
+	<!-- <p class="c-contact-tell">Tell：123-1234-1234</p> -->
 	<p class="c-contact-email">Email：contact@gatsweb.com</p>
 	<p class="c-contact-description">
 		吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。

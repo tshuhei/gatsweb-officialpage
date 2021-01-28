@@ -5,9 +5,7 @@
 		<p class="hero-title">GatsWeb</p>
 		<p class="hero-subtitle">Websites for all</p>
 		<p class="hero-description">
-			吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした所でニャーニャー
-			泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪
-			どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うという話である。しかしその当時は何という考
+		Webサイトは"オンラインの名刺"自分はどんな人間なのか?経営しているのはどんなお店なのか?興味を持ってくれた方に最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
 		</p>
 	</div>
 </div>
@@ -38,12 +36,7 @@
 		<div class="kadai1-right">
 			<p class="kadai-lr-title"><span class="first-character">ホ</span>ームページ制作が高額...</p>
 			<p class="kadai-lr-description">
-				吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当
-				けんとうがつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いて
-				いた事だけは記憶している。吾輩はここで始めて人間というものを見た。
-				しかもあとで聞くとそれは書生という人間中で一番獰悪どうあくな種族で
-				あったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うと
-				いう話である。しかしその当時は何という考
+			Webサイト制作にかかる相場をご存知ですか？おおよその相場が20万から30万円。一般的な企業が用いるようなものであれば100万円を超えることもしばしば。安くても3～10万円かかると言われています。
 			</p>
 		</div>
 	</div>
@@ -51,12 +44,7 @@
 		<div class="kadai2-left">
 			<p class="kadai-lr-title"><span class="first-character">制</span>作にかなりの時間がかかる...</p>
 			<p class="kadai-lr-description">
-			吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当
-				けんとうがつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いて
-				いた事だけは記憶している。吾輩はここで始めて人間というものを見た。
-				しかもあとで聞くとそれは書生という人間中で一番獰悪どうあくな種族で
-				あったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うと
-				いう話である。しかしその当時は何という考
+			Webサイト制作にかかる期間はおよそ2カ月から3カ月ほどが平均です。1ページのみのサイトでも2カ月弱かかることもしばしば。
 			</p>
 		</div>
 		<div class="kadai2-right">
@@ -70,12 +58,7 @@
 		<div class="kadai3-right">
 			<p class="kadai-lr-title"><span class="first-character">イ</span>メージ通りのデザインにならない...</p>
 			<p class="kadai-lr-description">
-			吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当
-				けんとうがつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いて
-				いた事だけは記憶している。吾輩はここで始めて人間というものを見た。
-				しかもあとで聞くとそれは書生という人間中で一番獰悪どうあくな種族で
-				あったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うと
-				いう話である。しかしその当時は何という考
+			安価なWeb製作会社に依頼した場合、テンプレートを用いた制作になる場合がほとんどです。気に入ったレイアウトにならなかったり、同業他社とページを差別化するのが難しくなることも。
 			</p>
 		</div>
 	</div>
@@ -90,36 +73,21 @@
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason1_clipped2.png">
 			<p class="reason-item-title">業界最安値！</p>
 			<p class="reason-item-description">
-				吾輩わがはいは猫である。名前はまだ無い。
-				どこで生れたかとんと見当けんとうがつかぬ
-				。何でも薄暗いじめじめした所でニャーニャ
-				ー泣いていた事だけは記憶している。吾輩は
-				ここで始めて人間というものを見た。しかも
-				あとで聞くとそれは書生という人間中で一番
+			小規模組織のため、運営費や無駄な仲介手数料などはほぼ無し！納得の業界最安値を提供いたします。※要求されるクオリティによってお値段は上下することがあります。
 			</p>
 		</div>
 		<div class="reason-item">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason2_clipped.png">
 			<p class="reason-item-title">素早い納品！</p>
 			<p class="reason-item-description">
-				吾輩わがはいは猫である。名前はまだ無い。
-				どこで生れたかとんと見当けんとうがつかぬ
-				。何でも薄暗いじめじめした所でニャーニャ
-				ー泣いていた事だけは記憶している。吾輩は
-				ここで始めて人間というものを見た。しかも
-				あとで聞くとそれは書生という人間中で一番
+			スピードコースなら、最短(2週間)ほどでの納品が可能！※相談内容によっては長引く場合がございます。
 			</p>
 		</div>
 		<div class="reason-item">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason3_clipped.png">
 			<p class="reason-item-title">徹底したヒアリング！</p>
 			<p class="reason-item-description">
-				吾輩わがはいは猫である。名前はまだ無い。
-				どこで生れたかとんと見当けんとうがつかぬ
-				。何でも薄暗いじめじめした所でニャーニャ
-				ー泣いていた事だけは記憶している。吾輩は
-				ここで始めて人間というものを見た。しかも
-				あとで聞くとそれは書生という人間中で一番
+			(納得のいくデザインで製作できるまで)、担当エンジニアがご相談させていただきます。
 			</p>
 		</div>
 	</div>
@@ -135,12 +103,7 @@
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">1</span>ヒアリング</p>
 				<p class="process-item-description">
-				吾輩わがはいは猫である。名前
-				はまだ無い。どこで生れたかと
-				んと見当けんとうがつかぬ。何
-				でも薄暗いじめじめした所でニ
-				ャーニャー泣いていた事だけは
-				記憶している。吾輩はここで始
+				お客様のご要望を細かくお聞きし、用途・ターゲット・ご予算に合わせたぴったりのプランをご提案いたします。
 				</p>
 			</div>
 		</div>
@@ -153,12 +116,7 @@
 			<div class="process-item-text-wrapper">	
 				<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
 				<p class="process-item-description">
-				吾輩わがはいは猫である。名前
-				はまだ無い。どこで生れたかと
-				んと見当けんとうがつかぬ。何
-				でも薄暗いじめじめした所でニ
-				ャーニャー泣いていた事だけは
-				記憶している。吾輩はここで始
+				お客様のご要望に合わせたデザインを提案いたします。気に入らなければ（何度でも）修正することが可能です。
 				</p>
 			</div>
 		</div>
@@ -171,12 +129,7 @@
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">3</span>制作</p>
 				<p class="process-item-description">
-				吾輩わがはいは猫である。名前
-				はまだ無い。どこで生れたかと
-				んと見当けんとうがつかぬ。何
-				でも薄暗いじめじめした所でニ
-				ャーニャー泣いていた事だけは
-				記憶している。吾輩はここで始
+				実際に制作を行います。なるべくスピーディーに、かつ高クオリティでの制作をお約束いたします。
 				</p>
 			</div>
 		</div>
@@ -189,12 +142,7 @@
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">4</span>運用</p>
 				<p class="process-item-description">
-				吾輩わがはいは猫である。名前
-				はまだ無い。どこで生れたかと
-				んと見当けんとうがつかぬ。何
-				でも薄暗いじめじめした所でニ
-				ャーニャー泣いていた事だけは
-				記憶している。吾輩はここで始
+				制作したWebサービスをお客様にお試しいただきます。機能拡張・修正だけでなく運用方法やその他質問がございましたら、お気軽にお問い合わせください。
 				</p>
 			</div>
 		</div>
@@ -209,7 +157,7 @@
 		<div class="contact-contents-main">
 			<p class="contact-copy">まずはお気軽に<br>お問い合わせください！！</p>
 			<p class="contact-tell">
-				Tell：123-1234-1234<br>
+				<!-- Tell：123-1234-1234<br> -->
 				Email：contact@gatsweb.com
 			</p>
 			<a href="https://gatsweb.net/contact"><p class="contact-cta">詳しくはこちらから</p></a>

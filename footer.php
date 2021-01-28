@@ -16,7 +16,7 @@
 			</div>
 			<div class="footer-contact">
 				<div class="footer-contact-left">
-					<p class="footer-contact-tell">Tell: 123-1234-1234</p>
+					<!-- <p class="footer-contact-tell">Tell: 123-1234-1234</p> -->
 					<p class="footer-contact-email">Email: contact@gatsweb.com</p>
 				</div>
 				<div class="footer-contact-right">
