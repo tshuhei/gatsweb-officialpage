@@ -1296,17 +1296,56 @@ footer{
 	align-items: center;
 }
 
-.c-contact-form{
+/* .c-contact-form{
 	width: 80%;
-}
+} */
 
-.c-contact-form-item{
+/* .c-contact-form-item{
+	padding: 1.5rem 0rem;
+	display: flex;
+	justify-content: space-around;
+} */
+
+/* .c-contact-form-label{
+	text-align: right;
+	font-size: 1.4rem;
+	flex-basis: 35%;
+	line-height: 3rem;
+	padding-right: 1rem;
+	border-right: .4rem solid #4064ff;
+} */
+
+/* .c-contact-form-input{
+	padding-left: 1rem;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	background-color: white;
+	flex-basis: 50%;
+	font-size: 1.4rem;
+	border-radius: .5rem;
+} */
+
+/* .c-contact-form-button-wrapper{
+	display: flex;
+	justify-content: center;
+	padding-top: 4rem;
+} */
+
+/* .c-contact-form-button{
+	background-color: #4064ff;
+	font-size: 1.4rem;
+	color: white;
+	padding: 1rem 5rem;
+	border-radius: .5rem;
+} */
+
+.form-item-wrapper{
 	padding: 1.5rem 0rem;
 	display: flex;
 	justify-content: space-around;
 }
 
-.c-contact-form-label{
+.wpcf7 label{
 	text-align: right;
 	font-size: 1.4rem;
 	flex-basis: 35%;
@@ -1315,7 +1354,7 @@ footer{
 	border-right: .4rem solid #4064ff;
 }
 
-.c-contact-form-input{
+.wpcf7-form-control-wrap{
 	padding-left: 1rem;
 	padding-top: .5rem;
 	padding-bottom: .5rem;
@@ -1323,15 +1362,20 @@ footer{
 	flex-basis: 50%;
 	font-size: 1.4rem;
 	border-radius: .5rem;
+	line-height: 2rem;
 }
 
-.c-contact-form-button-wrapper{
+.wpcf7{
+	width: 80%;
+}
+
+.form-submit{
 	display: flex;
 	justify-content: center;
 	padding-top: 4rem;
 }
 
-.c-contact-form-button{
+.wpcf7-submit{
 	background-color: #4064ff;
 	font-size: 1.4rem;
 	color: white;
@@ -1339,6 +1383,17 @@ footer{
 	border-radius: .5rem;
 }
 
+.wpcf7-not-valid-tip{
+	font-size: .8rem;
+}
+
+.wpcf7 input::placeholder{
+	color: #bbbbbb;
+}
+
+.wpcf7 textarea::placeholder{
+	color:#bbbbbb;
+}
 
 
 
@@ -1569,21 +1624,39 @@ footer{
 /* CONTACT PAGE */
 /* ============================================ */
 
-	.c-contact-form-item{
+	/* .c-contact-form-item{
 		flex-direction: column;
-	}
+	} */
 
 	.c-contact-form-wrapper{
 		padding-top: 7rem;
 	}
 
-	.c-contact-form-label{
+	/* .c-contact-form-label{
+		text-align: left;
+		border-right: none;
+		border-left: .4rem solid #4064ff;
+	} */
+
+	/* .c-contact-form-input{
+		border-radius: 0rem .5rem .5rem .5rem;
+	} */
+
+	.form-item-wrapper{
+		flex-direction: column;
+	}
+
+	.form-item-wrapper br{
+		display: none;
+	}
+
+	.wpcf7 label{
 		text-align: left;
 		border-right: none;
 		border-left: .4rem solid #4064ff;
 	}
 
-	.c-contact-form-input{
+	.wpcf7-form-control-wrap{
 		border-radius: 0rem .5rem .5rem .5rem;
 	}
 }
