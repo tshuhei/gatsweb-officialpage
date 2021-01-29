@@ -513,16 +513,16 @@ template {
 /* ============================================ */
 
 html{
-	color: #252525;
+	color: #454545;
 	font-size: 1.2vw;
-	font-family: vdl-v7marugothic, sans-serif;
-	font-weight: 500;
+	font-family: tbudrgothic-std, sans-serif;
+	font-weight: 400;
 	font-style: normal;
 }
 
 body{
-	font-family: vdl-v7marugothic, sans-serif;
-	font-weight: 500;
+	font-family: tbudrgothic-std, sans-serif;
+	font-weight: 400;
 	font-style: normal;
 	line-height: 1.15;
 }
@@ -731,13 +731,13 @@ footer{
 }
 
 .footer-contact{
-	margin-top: 2.5rem;
+	margin-top: 2rem;
 	display: flex;
 	justify-content: space-between;
 }
 
 .footer-social-icon{
-	height: 2.5rem;
+	height: 3rem;
 	margin-right: 1.3rem;
 }
 
@@ -746,6 +746,7 @@ footer{
 }
 
 .footer-contact-email{
+	line-height: 3rem;
 	font-size: 1.5rem;
 }
 
@@ -759,6 +760,7 @@ footer{
 }
 
 .hero-title{
+	font-weight: 700;
 	font-size: 6.5rem;
 	padding-top: 9rem;
 }
@@ -792,6 +794,7 @@ footer{
 }
 
 .vision-title{
+	font-weight: 700;
 	margin-top: 8rem;
 	margin-bottom:5rem;
 	padding-left: .7rem;
@@ -821,6 +824,7 @@ footer{
 }
 
 .kadai-title{
+	font-weight: 700;
 	margin-top: 8rem;
 	margin-bottom: 10rem;
 	padding-left: .7rem;
@@ -925,6 +929,7 @@ footer{
 }
 
 .reason-title{
+	font-weight: 700;
 	margin-top: 7.5rem;
 	margin-bottom: 4rem;
 	padding-left: .7rem;
@@ -983,6 +988,7 @@ footer{
 }
 
 .process-title{
+	font-weight: 700;
 	margin-top: 7.5rem;
 	margin-bottom: 10rem;
 	padding-left: .7rem;
@@ -1059,6 +1065,7 @@ footer{
 }
 
 .contact-title{
+	font-weight: 700;
 	margin-top: 9rem;
 	margin-bottom: 10rem;
 	padding-left: .7rem;
@@ -1157,6 +1164,7 @@ footer{
 }
 
 .about-top-title{
+	font-weight: 700;
 	margin-bottom: 5rem;
 	padding-left: .7rem;
 	padding-right: .7rem;
@@ -1183,6 +1191,7 @@ footer{
 }
 
 .greeting-title{
+	font-weight: 700;
 	margin-top: 9rem;
 	margin-bottom: 7rem;
 	padding-left: .7rem;
@@ -1292,25 +1301,27 @@ footer{
 }
 
 .c-contact-form-item{
-	padding: 3rem 0rem;
+	padding: 1.5rem 0rem;
 	display: flex;
 	justify-content: space-around;
 }
 
 .c-contact-form-label{
 	text-align: right;
-	font-size: 2rem;
+	font-size: 1.4rem;
 	flex-basis: 35%;
-	line-height: 4rem;
+	line-height: 3rem;
 	padding-right: 1rem;
 	border-right: .4rem solid #4064ff;
 }
 
 .c-contact-form-input{
-	padding: 1rem;
+	padding-left: 1rem;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
 	background-color: white;
 	flex-basis: 50%;
-	font-size: 2rem;
+	font-size: 1.4rem;
 	border-radius: .5rem;
 }
 
@@ -1322,7 +1333,7 @@ footer{
 
 .c-contact-form-button{
 	background-color: #4064ff;
-	font-size: 2rem;
+	font-size: 1.4rem;
 	color: white;
 	padding: 1rem 5rem;
 	border-radius: .5rem;

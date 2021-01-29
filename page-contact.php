@@ -33,7 +33,7 @@
 		</div>
 		<div class="c-contact-form-item">
 			<label class="c-contact-form-label" for="content">お問い合わせ内容</label>
-			<textarea class="c-contact-form-input" name="content" rows="4"></textarea>
+			<textarea class="c-contact-form-input" name="content" rows="5"></textarea>
 		</div>
 		<div class="c-contact-form-button-wrapper">
 			<input class="c-contact-form-button" type="submit" value="送信">
