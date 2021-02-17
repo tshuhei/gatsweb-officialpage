@@ -527,7 +527,35 @@ body{
 	line-height: 1.15;
 }
 
+.up{
+	opacity: 0;
+	transform: translateY(2rem);
+	transition: all .5s;
+}
 
+.up.done{
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.onload{
+	opacity: 0;
+	transform: translateY(5rem);
+	transition: all 2s;
+}
+
+.onload.done{
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.delay1{
+	animation-delay: 1s;
+}
+
+.delay2{
+	animation-delay: 2s;
+}
 
 
 /* ============================================ */
@@ -754,9 +782,18 @@ footer{
 /* TOP PAGE */
 /* ============================================ */
 
+.hero-wrapper{
+	background-image: url("./images/hero6.jpg");
+	background-size: cover;
+}
+
 .hero{
-	padding-left: 6.7rem;
-	background-image: url("./images/hero5.jpg");
+	/* padding-left: 6.7rem; */
+	background: rgba(0, 0, 0, 0.6);
+	color: #dddddd;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .hero-title{
@@ -776,7 +813,7 @@ footer{
 
 .hero-description{
 	width: 80%;
-	padding-top: 10rem;
+	padding-top: 15rem;
 	padding-bottom: 4rem;
 	font-size: 1.2rem;
 	line-height: 2.2rem;
@@ -1464,6 +1501,10 @@ footer{
 /* ============================================ */
 /* FRONT PAGE */
 /* ============================================ */
+
+	.hero-wrapper{
+		background-image: url("./images/hero6_sp.jpg");
+	}
 
 	.hero{
 		padding: 0;

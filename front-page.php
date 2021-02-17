@@ -1,20 +1,27 @@
 <?php get_header(); ?>
 
 <div class="main-column">
-	<div class="hero">
-		<p class="hero-title">GatsWeb</p>
-		<p class="hero-subtitle">Websites for all</p>
-		<p class="hero-description">
-		Webサイトは"オンラインの名刺"自分はどんな人間なのか?経営しているのはどんなお店なのか?興味を持ってくれた方に最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
-		</p>
+	<div class="hero-wrapper">
+		<div class="hero">
+			<p class="hero-title onload">GatsWeb</p>
+			<p class="hero-subtitle onload delay1">Websites for all</p>
+			<p class="hero-description onload delay2">
+			Webサイトは"オンラインの名刺"自分はどんな人間なのか?経営しているのはどんなお店なのか?興味を持ってくれた方に最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
+			</p>
+		</div>
 	</div>
 </div>
 
+<!-- <script type="text/javascript" src="//kamihaya.apj.mautic.net/form/generate.js?id=59"></script>
+<div id="csform-error" style="display: none;">
+	<p class="csform-error-message" style="color: black; font-size: 2rem; text-align: center; font-weight: 700; background: orange; padding-top: 2rem; padding-bottom: 2rem;">申し訳ございません、現在こちらのフォームはご利用いただけません。</p>
+</div> -->
+
 <div class="vision">
-	<div class="vision-title">
+	<div class="vision-title up">
 		<p>Vision</p>
 	</div>
-	<div class="vision-description">
+	<div class="vision-description up">
 		<p>吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした
 			所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くと
 			それは書生という人間中で一番獰悪どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮に
@@ -27,7 +34,7 @@
 
 <div class="kadai">
 	<div class="kadai-title-wrapper">
-		<p class="kadai-title">こんな課題を抱えていませんか？</p>
+		<p class="kadai-title up">こんな課題を抱えていませんか？</p>
 	</div>
 	<div class="kadai-1">
 		<div class="kadai1-left">
@@ -66,7 +73,7 @@
 
 <div class="reason">
 	<div class="reason-title-wrapper">
-		<p class="reason-title">GatsWebで課題を解決！</p>
+		<p class="reason-title up">GatsWebで課題を解決！</p>
 	</div>
 	<div class="reason-items">
 		<div class="reason-item">
@@ -95,7 +102,7 @@
 
 <div class="process">
 	<div class="process-title-wrapper">
-		<p class="process-title">制作の工程</p>
+		<p class="process-title up">制作の工程</p>
 	</div>
 	<div class="process-items">
 		<div class="process-item">
@@ -151,7 +158,7 @@
 
 <div class="contact">
 	<div class="contact-title-wrapper">
-		<p class="contact-title">Contact</p>
+		<p class="contact-title up">Contact</p>
 	</div>
 	<div class="contact-contents">
 		<div class="contact-contents-main">
