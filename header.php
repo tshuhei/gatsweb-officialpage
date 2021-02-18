@@ -12,6 +12,8 @@
 	<script src="<?php echo get_theme_file_uri(); ?>/js/jquery-3.5.1.min.js"></script>
 	<!-- BootstrapのJS読み込み -->
     <!-- <script src="<?php echo get_theme_file_uri(); ?>/js/bootstrap.min.js"></script> -->
+	<!-- ParallaxのJS読み込み -->
+	<script src="<?php echo get_theme_file_uri(); ?>/js/parallax.min.js"></script>
 	<?php wp_head(); ?>
 	<script>
 		(function(d) {

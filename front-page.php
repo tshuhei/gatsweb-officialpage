@@ -17,56 +17,47 @@
 	<p class="csform-error-message" style="color: black; font-size: 2rem; text-align: center; font-weight: 700; background: orange; padding-top: 2rem; padding-bottom: 2rem;">申し訳ございません、現在こちらのフォームはご利用いただけません。</p>
 </div> -->
 
-<div class="vision">
-	<div class="vision-title up">
-		<p>Vision</p>
-	</div>
-	<div class="vision-description up">
-		<p>吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした
-			所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くと
-			それは書生という人間中で一番獰悪どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮に
-			て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌てのひ
-			らに載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生
-			の顔を見たのがいわゆる人間というものの見始みはじめであろう。この時妙なものだと思った感じが今でも残っている。
-			第一毛を</p>
-	</div>
-</div>
-
 <div class="kadai">
 	<div class="kadai-title-wrapper">
 		<p class="kadai-title up">こんな課題を抱えていませんか？</p>
 	</div>
-	<div class="kadai-1">
-		<div class="kadai1-left">
-			<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai1_clipped.png">
-		</div>
-		<div class="kadai1-right">
-			<p class="kadai-lr-title"><span class="first-character">ホ</span>ームページ制作が高額...</p>
-			<p class="kadai-lr-description">
-			Webサイト制作にかかる相場をご存知ですか？おおよその相場が20万から30万円。一般的な企業が用いるようなものであれば100万円を超えることもしばしば。安くても3～10万円かかると言われています。
-			</p>
-		</div>
-	</div>
-	<div class="kadai-2">
-		<div class="kadai2-left">
-			<p class="kadai-lr-title"><span class="first-character">制</span>作にかなりの時間がかかる...</p>
-			<p class="kadai-lr-description">
-			Webサイト制作にかかる期間はおよそ2カ月から3カ月ほどが平均です。1ページのみのサイトでも2カ月弱かかることもしばしば。
-			</p>
-		</div>
-		<div class="kadai2-right">
-			<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai2_clipped.png">
+	<div class="kadai-wrapper">
+		<div class="kadai-1 slide-left">
+			<div class="kadai1-left">
+				<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai1_clipped.png">
+			</div>
+			<div class="kadai1-right">
+				<p class="kadai-lr-title"><span class="first-character">ホ</span>ームページ制作が高額...</p>
+				<p class="kadai-lr-description">
+				Webサイト制作にかかる相場をご存知ですか？おおよその相場が20万から30万円。一般的な企業が用いるようなものであれば100万円を超えることもしばしば。安くても3～10万円かかると言われています。
+				</p>
+			</div>
 		</div>
 	</div>
-	<div class="kadai-3">
-		<div class="kadai3-left">
-			<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai3_clipped.png">
+	<div class="kadai-wrapper">
+		<div class="kadai-2 slide-right">
+			<div class="kadai2-left">
+				<p class="kadai-lr-title"><span class="first-character">制</span>作にかなりの時間がかかる...</p>
+				<p class="kadai-lr-description">
+				Webサイト制作にかかる期間はおよそ2カ月から3カ月ほどが平均です。1ページのみのサイトでも2カ月弱かかることもしばしば。
+				</p>
+			</div>
+			<div class="kadai2-right">
+				<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai2_clipped.png">
+			</div>
 		</div>
-		<div class="kadai3-right">
-			<p class="kadai-lr-title"><span class="first-character">イ</span>メージ通りのデザインにならない...</p>
-			<p class="kadai-lr-description">
-			安価なWeb製作会社に依頼した場合、テンプレートを用いた制作になる場合がほとんどです。気に入ったレイアウトにならなかったり、同業他社とページを差別化するのが難しくなることも。
-			</p>
+	</div>
+	<div class="kadai-wrapper">
+		<div class="kadai-3 slide-left">
+			<div class="kadai3-left">
+				<img class="kadai-image" src="<?php echo get_theme_file_uri(); ?>/images/kadai3_clipped.png">
+			</div>
+			<div class="kadai3-right">
+				<p class="kadai-lr-title"><span class="first-character">イ</span>メージ通りのデザインにならない...</p>
+				<p class="kadai-lr-description">
+				安価なWeb製作会社に依頼した場合、テンプレートを用いた制作になる場合がほとんどです。気に入ったレイアウトにならなかったり、同業他社とページを差別化するのが難しくなることも。
+				</p>
+			</div>
 		</div>
 	</div>
 </div>
@@ -76,21 +67,21 @@
 		<p class="reason-title up">GatsWebで課題を解決！</p>
 	</div>
 	<div class="reason-items">
-		<div class="reason-item">
+		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason1_clipped2.png">
 			<p class="reason-item-title">業界最安値！</p>
 			<p class="reason-item-description">
 			小規模組織のため、運営費や無駄な仲介手数料などはほぼ無し！納得の業界最安値を提供いたします。※要求されるクオリティによってお値段は上下することがあります。
 			</p>
 		</div>
-		<div class="reason-item">
+		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason2_clipped.png">
 			<p class="reason-item-title">素早い納品！</p>
 			<p class="reason-item-description">
 			スピードコースなら、最短(2週間)ほどでの納品が可能！※相談内容によっては長引く場合がございます。
 			</p>
 		</div>
-		<div class="reason-item">
+		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason3_clipped.png">
 			<p class="reason-item-title">徹底したヒアリング！</p>
 			<p class="reason-item-description">
@@ -105,7 +96,7 @@
 		<p class="process-title up">制作の工程</p>
 	</div>
 	<div class="process-items">
-		<div class="process-item">
+		<div id="process-item-1" class="process-item process-up">
 			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process1_clipped.png">
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">1</span>ヒアリング</p>
@@ -114,11 +105,11 @@
 				</p>
 			</div>
 		</div>
-		<div class="process-arrow-wrapper">
+		<div id="process-arrow-1" class="process-arrow-wrapper process-up">
 			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
-		<div class="process-item">
+		<div id="process-item-2" class="process-item process-up delay1">
 			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process2_clipped.png">
 			<div class="process-item-text-wrapper">	
 				<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
@@ -127,11 +118,11 @@
 				</p>
 			</div>
 		</div>
-		<div class="process-arrow-wrapper">
+		<div id="process-arrow-2" class="process-arrow-wrapper process-up delay1">
 			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
-		<div class="process-item">
+		<div id="process-item-3" class="process-item process-up delay2">
 			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process3_clipped.png">
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">3</span>制作</p>
@@ -140,11 +131,11 @@
 				</p>
 			</div>
 		</div>
-		<div class="process-arrow-wrapper">
+		<div id="process-arrow-3" class="process-arrow-wrapper process-up delay2">
 			<img class="process-arrow-responsive" src="<?php echo get_theme_file_uri(); ?>/images/down-arrow2.png">
 			<img class="process-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 		</div>
-		<div class="process-item">
+		<div id="process-item-4" class="process-item process-up delay3">
 			<img class="process-item-image" src="<?php echo get_theme_file_uri(); ?>/images/process4_clipped.png">
 			<div class="process-item-text-wrapper">
 				<p class="process-item-title"><span class="process-first-character">4</span>運用</p>
@@ -156,11 +147,28 @@
 	</div>
 </div>
 
+<div class="vision-wrapper" data-speed="0.2" data-parallax="scroll" data-image-src="<?php echo get_theme_file_uri(); ?>/images/vision-back3.jpg">
+	<div class="vision">
+		<div class="vision-title up">
+			<p>Vision</p>
+		</div>
+		<div class="vision-description up">
+			<p>吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした
+				所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くと
+				それは書生という人間中で一番獰悪どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮に
+				て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌てのひ
+				らに載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生
+				の顔を見たのがいわゆる人間というものの見始みはじめであろう。この時妙なものだと思った感じが今でも残っている。
+				第一毛を</p>
+		</div>
+	</div>
+</div>
+
 <div class="contact">
 	<div class="contact-title-wrapper">
 		<p class="contact-title up">Contact</p>
 	</div>
-	<div class="contact-contents">
+	<div class="contact-contents contact-slide-left">
 		<div class="contact-contents-main">
 			<p class="contact-copy">まずはお気軽に<br>お問い合わせください！！</p>
 			<p class="contact-tell">

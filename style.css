@@ -518,6 +518,7 @@ html{
 	font-family: tbudrgothic-std, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	overflow: auto;
 }
 
 body{
@@ -525,6 +526,7 @@ body{
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.15;
+	overflow: hidden;
 }
 
 .up{
@@ -549,12 +551,59 @@ body{
 	transform: translateY(0);
 }
 
-.delay1{
-	animation-delay: 1s;
+.slide-left{
+	opacity: 0;
+	transform: translateX(-10rem);
+	transition: all 1s;
 }
 
-.delay2{
-	animation-delay: 2s;
+.contact-slide-left{
+	opacity: 0;
+	transform: translateX(-20rem);
+	transition: all 1.8s;
+}
+
+.slide-right{
+	opacity: 0;
+	transform: translateX(10rem);
+	transition: all 1s;
+}
+
+.slide-left.done{
+	opacity: 1;
+	transform: translateX(0);
+}
+
+.contact-slide-left.done{
+	opacity: 1;
+	transform: translateX(0);
+}
+
+.slide-right.done{
+	opacity: 1;
+	transform: translateX(0);
+}
+
+.reason-up{
+	opacity: 0;
+	transform: translateY(4rem);
+	transition: all 1s;
+}
+
+.reason-up.done{
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.process-up{
+	opacity: 0;
+	transform: translateY(10rem);
+	transition: all 1s;
+}
+
+.process-up.done{
+	opacity: 1;
+	transform: translateY(0);
 }
 
 
@@ -823,8 +872,15 @@ footer{
 /* VISION */
 /* ============================================ */
 
+.vision-wrapper{
+	/*background-image: url("./images/vision-back2.jpg");
+	background-size: cover;*/
+}
+
 .vision{
-	background-color: #eeeeee;
+	 /* background-color: #eeeeee; */
+	background: rgba(0, 0, 0, 0.6);
+	color: #eeeeee;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -869,6 +925,11 @@ footer{
 	font-size: 2.4rem;
 	background:linear-gradient(transparent 70%, #4064ff 0%);
 }
+
+/* .kadai-wrapper{
+	position: relative;
+	overflow: hidden;
+} */
 
 .kadai-1{
 	display: flex;
@@ -1445,6 +1506,39 @@ footer{
 @media screen and (max-width: 600px){
 	html{
 		font-size: 2.4vw;
+	}
+
+	.slide-left{
+		opacity: 0;
+		transform: translateY(2rem);
+		transition: all .5s;
+	}
+
+	.slide-left.done{
+		opacity: 1;
+		transform: translateY(0);
+	}
+
+	.slide-right{
+		opacity: 0;
+		transform: translateY(2rem);
+		transition: all .5s;
+	}
+
+	.slide-right.done{
+		opacity: 1;
+		transform: translateY(0);
+	}
+
+	.contact-slide-left{
+		opacity: 0;
+		transform: translateY(5rem);
+		transition: all 1s;
+	}
+
+	.contact-slide-left.done{
+		opacity: 1;
+		transform: translateY(0);
 	}
 
 /* ============================================ */
