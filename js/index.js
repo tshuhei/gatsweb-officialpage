@@ -46,7 +46,16 @@ jQuery(function($){
 
     function load_effect(){
         $(".onload").each(function(){
-            if($(this).hasClass("delay2")){
+            if($(this).hasClass("delay3")){
+                $(this).delay(1500).queue(function(){
+                    $(this).addClass("done").dequeue();
+                });
+                // if($(this).hasClass("hero-cta")){
+                //     $(this).delay(2000).queue(function(){
+                //         $(this).css("transaction","all .4s");
+                //     });
+                // }
+            }else if($(this).hasClass("delay2")){
                 $(this).delay(1000).queue(function(){
                     $(this).addClass("done");
                 });

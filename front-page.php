@@ -5,6 +5,7 @@
 		<div class="hero">
 			<p class="hero-title onload">GatsWeb</p>
 			<p class="hero-subtitle onload delay1">Websites for all</p>
+			<a href="https://gatsweb.net/contact"><p class="hero-cta onload delay3">制作依頼・問合せはこちら</p></a>
 			<p class="hero-description onload delay2">
 			Webサイトは"オンラインの名刺"自分はどんな人間なのか?経営しているのはどんなお店なのか?興味を持ってくれた方に最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
 			</p>

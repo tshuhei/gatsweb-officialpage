@@ -37,8 +37,8 @@
 			<ul class="header-items">
 				<!-- <li class="header-item"><a href="https://gatsweb.net/price">Price</a></li>
 				<li class="header-item"><a href="https://gatsweb.net/service">Service</a></li> -->
-				<li class="header-item"><a href="https://gatsweb.net/about">About</a></li>
-				<li class="header-item"><a href="https://gatsweb.net/contact">Contact</a></li>
+				<a href="https://gatsweb.net/about"><li class="header-item">About</li></a>
+				<a href="https://gatsweb.net/contact"><li class="header-item">Contact</li></a>
 			</ul>
 		</div>
 		<div class="nav-drawer-wrapper">
