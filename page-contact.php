@@ -2,17 +2,15 @@
 
 <div class="c-contact">
 	<div class="c-contact-top">
-		<img class="c-contact-top-arrow" src="<?php echo get_theme_file_uri(); ?>/images/left-arrow.png">
-		<p class="c-contact-top-str">Contact</p>
-		<img class="c-contact-top-arrow" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
+		<img class="c-contact-top-arrow up" src="<?php echo get_theme_file_uri(); ?>/images/left-arrow.png">
+		<p class="c-contact-top-str up">Contact</p>
+		<img class="c-contact-top-arrow up" src="<?php echo get_theme_file_uri(); ?>/images/right_arrow.png">
 	</div>
-	<p class="c-contact-copy">まずはお気軽にご相談ください</p>
+	<p class="c-contact-copy up">まずはお気軽にご相談ください</p>
 	<!-- <p class="c-contact-tell">Tell：123-1234-1234</p> -->
-	<p class="c-contact-email">Email：contact@gatsweb.com</p>
-	<p class="c-contact-description">
-		吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。
-		何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここ
-		で始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪ど
+	<p class="c-contact-email up">Email：contact@gatsweb.com</p>
+	<p class="c-contact-description up">
+	お見積もりのご相談やWebサイト開設に関してのご相談など、些細なことでもお気軽にお問い合わせください。
 	</p>
 </div>
 

@@ -7,7 +7,7 @@
 			<p class="hero-subtitle onload delay1">Websites for all</p>
 			<a href="https://gatsweb.net/contact"><p class="hero-cta onload delay3">制作依頼・問合せはこちら</p></a>
 			<p class="hero-description onload delay2">
-			Webサイトは"オンラインの名刺"自分はどんな人間なのか?経営しているのはどんなお店なのか?興味を持ってくれた方に最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
+			最小限のコストで最大限のアピールを。GatsWebはあなたのWebサイトデビューを応援します。
 			</p>
 		</div>
 	</div>
@@ -71,22 +71,24 @@
 		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason1_clipped2.png">
 			<p class="reason-item-title">業界最安値！</p>
-			<p class="reason-item-description">
-			小規模組織のため、運営費や無駄な仲介手数料などはほぼ無し！納得の業界最安値を提供いたします。※要求されるクオリティによってお値段は上下することがあります。
+			<p class="reason-item-description-first">
+			小規模組織のため、運営費や無駄な仲介手数料などはほぼ無し！納得の業界最安値を提供いたします。
 			</p>
+			<p class="reason-item-description-attention">※要求されるクオリティによってお値段は上下することがあります。</p>
 		</div>
 		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason2_clipped.png">
 			<p class="reason-item-title">素早い納品！</p>
-			<p class="reason-item-description">
-			スピードコースなら、最短(2週間)ほどでの納品が可能！※相談内容によっては長引く場合がございます。
+			<p class="reason-item-description-first">
+			スピードコースなら、最短2週間ほどでの納品が可能！
 			</p>
+			<p class="reason-item-description-attention">※相談内容によっては長引く場合がございます。</p>
 		</div>
 		<div class="reason-item reason-up">
 			<img class="reason-item-image" src="<?php echo get_theme_file_uri(); ?>/images/reason3_clipped.png">
 			<p class="reason-item-title">徹底したヒアリング！</p>
 			<p class="reason-item-description">
-			(納得のいくデザインで製作できるまで)、担当エンジニアがご相談させていただきます。
+			納得のいくデザインで製作できるまで、担当エンジニアがご相談させていただきます。
 			</p>
 		</div>
 	</div>
@@ -115,7 +117,7 @@
 			<div class="process-item-text-wrapper">	
 				<p class="process-item-title"><span class="process-first-character">2</span>デザイン提案</p>
 				<p class="process-item-description">
-				お客様のご要望に合わせたデザインを提案いたします。気に入らなければ（何度でも）修正することが可能です。
+				お客様のご要望に合わせたデザインを提案いたします。気に入らなければ何度でも修正することが可能です。
 				</p>
 			</div>
 		</div>
@@ -154,13 +156,19 @@
 			<p>Vision</p>
 		</div>
 		<div class="vision-description up">
-			<p>吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした
-				所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くと
-				それは書生という人間中で一番獰悪どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮に
-				て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌てのひ
-				らに載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生
-				の顔を見たのがいわゆる人間というものの見始みはじめであろう。この時妙なものだと思った感じが今でも残っている。
-				第一毛を</p>
+			<p>Webサイトのメリットとして、SNS等と異なり流行り廃りが存在しないことが挙げられます。<br>
+				Twitter,instagramをお使いですか?SNSは非常に便利なツールですが、果たして10年後も
+				変わらず使われているでしょうか？
+				せっかく集めたフォロワーが水の泡…なんてことにもなりかねません。
+				Webサイトなら、そんな心配はありません。Googleなどの検索エンジンがある限り、
+				集客ツールとして機能し続けます。
+			</p>
+			<p>
+			また、Webサイトを持つことでお客様からの信用を得られるというメリットもあります。<br>
+			「初めてのお店だから不安」「この人に仕事を任せても平気かな？」そんな不安から
+			お客様はあなたを検索します。そんな時、Webサイトはアピールができると同時に
+			あなたの信用度を非常に高めます。
+			</p>
 		</div>
 	</div>
 </div>
