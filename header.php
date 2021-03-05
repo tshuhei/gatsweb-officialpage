@@ -37,6 +37,7 @@
 			<ul class="header-items">
 				<!-- <li class="header-item"><a href="https://gatsweb.net/price">Price</a></li>
 				<li class="header-item"><a href="https://gatsweb.net/service">Service</a></li> -->
+				<a href="https://gatsweb.net"><li class="header-item">Home</li></a>
 				<a href="https://gatsweb.net/about"><li class="header-item">About</li></a>
 				<a href="https://gatsweb.net/contact"><li class="header-item">Contact</li></a>
 			</ul>
@@ -50,6 +51,7 @@
 					<ul class="nav-content-items">
 						<!-- <a class="nav-content-item" href="https://gatsweb.net/price"><li>Price</li></a>
 						<a class="nav-content-item" href="https://gatsweb.net/service"><li>Service</li></a> -->
+						<a class="nav-content-item" href="https://gatsweb.net"><li>Home</li></a>
 						<a class="nav-content-item" href="https://gatsweb.net/about"><li>About</li></a>
 						<a class="nav-content-item" href="https://gatsweb.net/contact"><li>Contact</li></a>
 					</ul>
