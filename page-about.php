@@ -19,21 +19,9 @@
 		<p class="greeting-title up">Profile</p>
 	</div>
 	<div class="greeting-contents">
-		<p class="greeting-discription up">
-			吾輩わがはいは猫である。名前はまだ無い。どこで生れたかとん
-			と見当けんとうがつかぬ。何でも薄暗いじめじめした所でニャー
-			ニャー泣いていた事だけは記憶している。吾輩はここで始めて人
-			間というものを見た。しかもあとで聞くとそれは書生という人間
-			中で一番獰悪どうあくな種族であったそうだ。この書生というの
-			は時々我々を捕つかまえて煮にて食うという話である。しかしそ
-			の当時は何という考もなかったから別段恐しいとも思わなかった
-			。ただ彼の掌てのひらに載せられてスーと持ち上げられた時何だ
-			かフワフワした感じがあったばかりである。掌の上で少し落ちつ
-			いて書生の顔を見たのがいわゆる人間というものの見始みはじめ
-			であろう。この時妙なものだと思った感じが今でも残っている。
-			第一毛を</p>
-		<!-- <img class="greeting-president" src="<?php echo get_theme_file_uri(); ?>/images/president_clipped.png"> -->
+		<img class="greeting-president up" src="<?php echo get_theme_file_uri(); ?>/images/profile-gradation.png">
+		<p class="greeting-discription up">代表者　岡野拓実</p>
+		<p class="greeting-discription2 up">2021年3月　大阪大学基礎工学部卒。ファン数が5万人を超える個人YouTubeチャンネルやハウツーブログの運営を行いつつ、同大学大学院情報科学研究科にて学生生活を送る。2021年3月にweb製作会社Gatswebを設立。</p>
 	</div>
 </div>
-
 <?php get_footer();?>

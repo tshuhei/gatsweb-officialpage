@@ -894,8 +894,6 @@ footer{
 	padding: 1rem 2rem;
 	margin-top: 5rem;
 	border-radius: 2rem;
-	/* background-color:#4064ff; */
-	/* transition: background-color .3s, color .3s, ; */
 	background: linear-gradient(#4064ff, #4064ff) left / 100% 100% no-repeat,
 		linear-gradient(orange, orange) right 0% / 0 5rem no-repeat;
 	transition: background-size .6s cubic-bezier(0.215, 0.61, 0.355, 1), color .3s, opacity 2s, transform 2s;
@@ -903,10 +901,9 @@ footer{
 }
 
  .hero-cta:hover{
-	/* background-color: orange; */
 	background-position: right, left 0%;
 	background-size: 0 100%, 100% 5rem;
-} 
+}
 
 .hero-description{
 	text-align: center;
@@ -1386,20 +1383,31 @@ footer{
 
 .greeting-contents{
 	display: flex;
+	flex-direction: column;
+	align-items: center;
 	padding-bottom: 7rem;
-	justify-content: space-around;
+	/* justify-content: space-around; */
 }
 
 .greeting-discription{
-	flex-basis: 70%;
-	font-size: 1.2rem;
-	line-height: 2.2rem;
+	/* flex-basis: 70%; */
+	font-size: 1rem;
+	line-height: 1.8rem;
+	text-align: center;
+	padding-bottom: 1rem;
+}
+
+.greeting-discription2{
+	font-size: 1rem;
+	line-height: 1.8rem;
+	width: 40%;
 }
 
 .greeting-president{
 	width: 30%;
 	max-width: 30%;
-	height: 30%;
+	height: auto;
+	padding-bottom: 1rem;
 }
 
 
@@ -1838,17 +1846,17 @@ footer{
 	}
 
 	.greeting-discription{
-		order: 2;
+		/* order: 2; */
 		width: 70%;
 	}
 
 	.greeting-president{
-		order: 1;
+		/* order: 1; */
 		width: 60%;
 		max-width: 60%;
 		height: auto;
 		margin-top: 2rem;
-		margin-bottom: 7rem;
+		/* margin-bottom: 7rem; */
 	}
 
 /* ============================================ */
